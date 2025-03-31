@@ -7,8 +7,8 @@ This repository showcases a personal reconstruction of two full-score competitiv
 During France’s elite competitive exams, I earned top scores for analytical reasoning under pressure.  
 But I wanted to take it one step further.
 
-> What if I could bring that rigor into the computational world?  
-> What if I could simulate, visualize, and verify every convergence, distribution, and transformation using Python?
+- What if I could bring that rigor into the computational world?  
+- What if I could simulate, visualize, and verify every convergence, distribution, and transformation using Python?
 
 This project is my answer. It’s a bridge between pen-and-paper intuition and executable logic.  
 It is a way to demonstrate my comfort and my enthusiasm with advanced mathematics through clarity, structure, and code.
